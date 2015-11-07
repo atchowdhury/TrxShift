@@ -1,0 +1,6 @@
+F:\BASIS Class\Practice Web ASP\TrxShift\TrxShift\bin\Debug\TrxShift.exe.config
+F:\BASIS Class\Practice Web ASP\TrxShift\TrxShift\bin\Debug\TrxShift.exe
+F:\BASIS Class\Practice Web ASP\TrxShift\TrxShift\bin\Debug\TrxShift.pdb
+F:\BASIS Class\Practice Web ASP\TrxShift\TrxShift\obj\Debug\TrxShift.csprojResolveAssemblyReference.cache
+F:\BASIS Class\Practice Web ASP\TrxShift\TrxShift\obj\Debug\TrxShift.exe
+F:\BASIS Class\Practice Web ASP\TrxShift\TrxShift\obj\Debug\TrxShift.pdb
